@@ -1,0 +1,62 @@
+#barra {
+    
+    width: 100%;
+}
+
+#logo-nav {
+    width: 132px;
+    height: 53px;
+}
+
+.navbar{
+    color: #ffff;
+
+}
+
+h1 {
+
+    padding: 3rem;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    color: #707070;   
+}
+
+
+.caja {
+    width: 248px;
+    height: 132px;
+}
+
+.col-md-4, .col-12 {
+    margin-bottom: 30rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.suricata-footer {
+    background-color: #E83E8C;
+    padding: 2rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#suri-logo {
+width: 53px;
+height: 100px;
+display: inline-block
+}
+
+i {
+    font-size: 53px;
+    padding-left: 2rem;
+    color: #ffff;
+}
+
+.pagos {
+    background-color: #17A2B8;
+}
+
